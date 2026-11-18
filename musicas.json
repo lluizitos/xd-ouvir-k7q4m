@@ -1,5 +1,5 @@
 {
- "atualizado": "17/11/2026",
+ "atualizado": "18/11/2026",
  "musicas": [
   {
    "n": 1,
@@ -58,8 +58,11 @@
   {
    "n": 8,
    "nome": "Voltei pro Piseiro",
-   "versao": "M2",
-   "status": "finalizando"
+   "versao": "M1",
+   "status": "enviada",
+   "mp3": "1RdCBVuGzCf5bkWgKVpa5XyW1riQCbPp8",
+   "wav": "1cVoJJ3xwfOf5taZVkzNw3YtQHUup-K6C",
+   "ouvir": "audio/voltei-m1.mp3"
   },
   {
    "n": 9,
