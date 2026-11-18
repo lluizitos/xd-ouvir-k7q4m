@@ -40,20 +40,29 @@
   {
    "n": 5,
    "nome": "Cabeça Voando",
-   "versao": "M2.2",
-   "status": "finalizando"
+   "versao": "M2.5",
+   "status": "enviada",
+   "mp3": "1JwGHuf9sYlijpKALOg5CDzuPURoPqLy1",
+   "wav": "1hVPfwEIH0XHJREet5Vx0yYaM_eMN6kHn",
+   "ouvir": "audio/cabeca-m2-5.mp3"
   },
   {
    "n": 6,
    "nome": "Turbinada",
-   "versao": "M1.5",
-   "status": "finalizando"
+   "versao": "M2.1",
+   "status": "enviada",
+   "mp3": "1g3Rqx_ruSlnGttf0imH_1mpT-zGkomiX",
+   "wav": "175ulCCF7vPB7Msok8eSiJkmDMRSTYaAo",
+   "ouvir": "audio/turbinada-m2-1.mp3"
   },
   {
    "n": 7,
    "nome": "Chorei na Cavalgada",
-   "versao": "M1",
-   "status": "finalizando"
+   "versao": "M1.2",
+   "status": "enviada",
+   "mp3": "13oWAWaF_QNvtYYgQPYv8BLDGsHyEr1T0",
+   "wav": "1nDAdhjMKtilbJ6b5YyrysNz2m5kwnstO",
+   "ouvir": "audio/chorei-m1-2.mp3"
   },
   {
    "n": 8,
