@@ -1,14 +1,14 @@
 {
- "atualizado": "18/11/2026",
+ "atualizado": "19/11/2026",
  "musicas": [
   {
    "n": 1,
    "nome": "Olho no Olho",
-   "versao": "M8.4",
-   "status": "aprovada",
-   "mp3": "1Or0FWV1QzLa5JXfesy838TqrzK8Rc0wB",
-   "wav": "1xWjJfdqRJn1RCXvPTVLfRkqQeoK0W1VB",
-   "ouvir": "audio/olho-no-olho-m8-4.mp3"
+   "versao": "M9",
+   "status": "finalizada",
+   "mp3": "1jOOs06oUPDcwUXF6SvyeOguyBEPdtS24",
+   "wav": "1-6uNwMWc0jI8E48AmQvT-I1Qh8ryp0Ay",
+   "ouvir": "audio/olho-no-olho-m9.mp3"
   },
   {
    "n": 2,
